@@ -1,0 +1,50 @@
+\documentclass{article}
+
+\input{preamble}
+\include{macros}
+
+\title{%
+  Jolella -- Condivisione Files in Rete Paritaria\\
+  \large Documentazione di Progetto per Laboratorio di Sistemi Operativi}
+
+\author{%
+  Tutor: Stefano Pio Zingaro\\
+  A.A. 2018-2019}
+
+\begin{document}
+
+\maketitle
+\date{}
+
+\begin{abstract}
+\noindent Il progetto di quest'anno propone la creazione un sistema di scambio elettronico decentralizzato, dove gli utenti effettuano transazioni certificate all'interno della rete stessa, senza il bisogno di un organo centrale garante\footnote{Il ruolo che ricoprono le banche nei moderni sistemi finanziari.}. L'implementazione del progetto segue i principi della programmazione orientata ai servizi, rispettandone l'architettura e i paradigmi di gestione della concorrenza. La comunicazione tra i servizi, infine, è implementata nel linguaggio visto a lezione di laboratorio: \href{http://jolie-lang.org}{Jolie}~\cite{milner1992calculus}.
+\end{abstract}
+
+\newpage
+
+\tableofcontents
+
+\newpage
+
+\section{Informazioni Logistiche}
+\label{sec:logistic}
+\input{logistic}
+
+\newpage
+
+\section{Componenti del Progetto e loro Implementazione}
+\label{sec:components}
+\input{components}
+
+\newpage
+
+\section{Specifiche di Consegna}
+\label{sec:delivery}
+\input{delivery}
+
+\newpage
+
+\bibliographystyle{apalike}
+\bibliography{biblio}
+
+\end{document}

@@ -14,10 +14,17 @@
 \begin{document}
 
 \maketitle
-\date{}
+\date{Aprile, 2019}
 
 \begin{abstract}
-\noindent Il progetto di quest'anno propone la creazione un sistema di scambio elettronico decentralizzato, dove gli utenti effettuano transazioni certificate all'interno della rete stessa, senza il bisogno di un organo centrale garante\footnote{Il ruolo che ricoprono le banche nei moderni sistemi finanziari.}. L'implementazione del progetto segue i principi della programmazione orientata ai servizi, rispettandone l'architettura e i paradigmi di gestione della concorrenza. La comunicazione tra i servizi, infine, è implementata nel linguaggio visto a lezione di laboratorio: \href{http://jolie-lang.org}{Jolie}~\cite{milner1992calculus}.
+
+ Il progetto propone la creazione un sistema di condivisione di file
+ decentralizzato, in una rete di entità pari tra loro.
+ L'implementazione del progetto segue i principi della programmazione orientata
+ ai servizi, rispettandone l'architettura e i paradigmi di gestione della
+ concorrenza. La comunicazione tra i servizi, infine, è implementata nel
+ linguaggio visto a lezione di laboratorio: \href{http://jolie-lang.org}{Jolie}.
+
 \end{abstract}
 
 \newpage
@@ -32,13 +39,19 @@
 
 \newpage
 
-\section{Componenti del Progetto e loro Implementazione}
+\section{Descrizione delle Componenti del Sistema}
 \label{sec:components}
 \input{components}
 
 \newpage
 
-\section{Specifiche di Consegna}
+\section{Discussione sulla Strategia di Implementazione}
+\label{sec:impl}
+\input{impl}
+
+\newpage
+
+\section{Specifiche per la Consegna}
 \label{sec:delivery}
 \input{delivery}
 

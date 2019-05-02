@@ -1,21 +1,40 @@
 % !TEX root =  main.tex
 
-Globalmente, vengono consegnati due prodotti: la documentazione e l'implementazione del progetto. La valutazione
-finale avviene mediante una discussione di gruppo.
+Globalmente, vengono consegnati due prodotti: la documentazione e
+l'implementazione del progetto. La valutazione finale avviene mediante una
+discussione di gruppo (orale), nella quale vengono discusse le strategie con la
+quale i prodotti consegnati sono stati generati. Le domande possono essere
+rivolte a chiunque dei partecipanti al gruppo.
 
 \begin{tcolorbox}[colback=yellow!20!white,colframe=yellow!75!black,title=\textbf{N.B.}]
+
  \begin{enumerate}
-  \item non si accettano richieste di eccezioni sui progetti con motivazioni legate a esigenze di laurearsi o di non voler pagare le tasse per un altro anno.
-  \item chi copia o fa copiare, anche solo in parte, si vede invalidare completamente il progetto senza possibilità di appello $\rightarrow$ deve quindi rifare un nuovo progetto l'anno successivo.
+
+  \item non si accettano richieste di eccezioni sui progetti
+        con motivazioni legate a esigenze di laurearsi o di non voler pagare le tasse
+        per un altro anno.
+
+  \item chi copia o fa copiare, anche solo in parte, si vede invalidare
+        completamente il progetto senza possibilità di appello. Il codice viene
+        controllato con un programma per il rilevamento di plagio.
+
  \end{enumerate}
+
 \end{tcolorbox}
 
 \subsection{La documentazione}
-È possibile scrivere la documentazione nel formato preferito, l'importante è che il PDF generato rispetti la struttura del modello (riportato qui in basso). La documentazione ha lunghezza di quattro o cinque pagine (quindi da 8 a 10 facciate), è scritto con font di grandezza \textbf{12pt} e viene consegnato in formato PDF.
-Di seguito viene riportato un esempio di documentazione con le principali caratteristiche da inserire.
+
+È possibile scrivere la documentazione nel formato preferito, l'importante è che
+il PDF generato rispetti la struttura del modello (riportato in
+basso~\ref{template}). La documentazione ha lunghezza di quattro o cinque pagine
+(quindi da 8 a 10 facciate), è scritto con font di grandezza \textbf{12pt} e
+viene consegnato in formato PDF. Di seguito viene riportato un esempio di
+documentazione con le principali caratteristiche da inserire.
+
 \begin{tcolorbox}[colback=green!20!white,colframe=green!75!black,title=L'intestazione della Documentazione]
+ \label{template}
  \begin{itemize}
-  \item Jollar -- Laboratorio Sistemi Operativi A.A. 2017-2018
+  \item Jolella -- Laboratorio Sistemi Operativi A.A. 2018-2019
   \item Nome del Gruppo
   \item Indirizzo mail di riferimento: nome.cognome@studio.unibo.it
   \item Componenti:
@@ -25,21 +44,41 @@ Di seguito viene riportato un esempio di documentazione con le principali caratt
         \end{itemize}
  \end{itemize}
 \end{tcolorbox}
+
 \begin{tcolorbox}[colback=green!20!white,colframe=green!75!black,title=Il corpo della Documentazione]
+
  \begin{enumerate}
-  \item Descrizione generale del progetto -- descrizione delle features implementate e del contenuto della documentazione.
+
+  \item Descrizione generale del progetto -- descrizione delle features
+        implementate e del contenuto della documentazione.
+
   \item Istruzioni per la demo -- le istruzioni per eseguire una demo.
-  \item Discussione sulle strategie di implementazione
+
+  \item Discussione sulle strategie di implementazione:
+
         \begin{enumerate}
-         \item Struttura del progetto -- come è stato diviso il progetto, perché, i problemi principali riscontrati, le alternative considerate e le soluzioni scelte.
-         \item Sezione di descrizione della feature x -- abbiamo implementato la funzione di `foo` \dots (con esempi di codice).
+
+         \item Struttura del progetto -- come è stato diviso il progetto,
+               perché, i problemi principali riscontrati, le alternative considerate e
+               le soluzioni scelte.
+
+         \item Sezione di descrizione della feature x -- abbiamo implementato la
+               funzione di `foo` \dots (con esempi di codice).
+
         \end{enumerate}
+
  \end{enumerate}
+
 \end{tcolorbox}
 
 \subsubsection{Griglia di Valutazione}
-La valutazione della documentazione verte sull'analisi dello scritto e sulla sua capacità di esprimere con chiarezza i concetti descritti, soprattutto grazie all'uso di esempi. In particolare la griglia di valutazione usata è la seguente:
-\newpage
+
+La valutazione della documentazione verte sull'analisi dello scritto e sulla sua
+capacità di esprimere con chiarezza i concetti descritti, soprattutto \textbf{grazie
+ all'uso di esempi}.
+
+In particolare la griglia di valutazione usata è la seguente:
+
 \begin{table}[ht]
  \centering
  {\small
@@ -57,12 +96,16 @@ La valutazione della documentazione verte sull'analisi dello scritto e sulla sua
 Il progetto viene sviluppato utilizzando il linguaggio Jolie. Non ci sono
 requisiti riguardo ai protocolli (\textit{protocol}) e i media
 (\textit{location}) utilizzati per realizzare la comunicazione tra i componenti
-del sistema. La gestione del progetto avviene col supporto del sistema
-\textit{git}.  Il codice del progetto è contenuto in un repository su
-\href{http://gitlab.com}{GitLab} e viene gestito seguendo la procedura descritta
-sotto.
+del sistema.
 
-%
+La gestione del progetto avviene col supporto del sistema \textit{git}, a
+\href{https://education.github.com/git-cheat-sheet-education.pdf}{questa pagina} è
+possibile trovare una lista di comandi utili da tenere sempre a mente.
+
+Il codice del progetto è contenuto in un repository sul server in cloud del
+servizio online \href{http://gitlab.com}{GitLab} e viene gestito seguendo la
+procedura qui descritta.
+
 \begin{tcolorbox}[colback=blue!20!white,colframe=blue!75!black,title=GitLab]
  \begin{itemize}
   \item Ogni membro del gruppo crea un account su GitLab;
@@ -71,33 +114,51 @@ sotto.
   \item il referente aggiunge l'utente ``stefanopiozingaro'' come \textbf{role permission} $>$ \textbf{Reporter}.
  \end{itemize}
 \end{tcolorbox}
-%
-Al momento della consegna, il repository dovrà contenere i sorgenti del progetto e la relazione, nominata \textbf{REPORT\_LSO.pdf}. Per effettuare la consegna:
+
+\subsubsection{La consegna dell'implementazione tramite il Tag di GitLab}
+
+Al momento della consegna, il repository dovrà contenere i sorgenti del progetto
+e la relazione, nominata \textbf{REPORT\_LSO.pdf}. Per effettuare la consegna:
+
 \begin{enumerate}
- \item nella pagina di GitLab del repository, cliccare sulle voci del menù \textbf{Repository} $>$ \textbf{Tags} $>$ \textbf{New Tag};
+
+ \item nella pagina di GitLab del repository, cliccare sulle voci del menù
+       \textbf{Repository} $>$ \textbf{Tags} $>$ \textbf{New Tag};
+
  \item digitare come \textbf{Tag Name} il nome \textbf{Consegna};
- \item cliccare su \textbf{Create Tag} per eseguire la creazione del \textbf{Tag} di consegna.
+
+ \item cliccare su \textbf{Create Tag} per eseguire la creazione del
+       \textbf{Tag} di consegna.
+
 \end{enumerate}
-%
-Una volta creato il Tag, inviare una email di notifica di consegna con soggetto \textbf{CONSEGNA LSO - NOME GRUPPO} a \href{stefanopio.zingaro@unibo.it}{questo indirizzo di posta elettronica}.
+
+Una volta creato il Tag, inviare una email di notifica di consegna con soggetto
+\textbf{CONSEGNA LSO - NOME GRUPPO} a
+\href{mailto:stefanopio.zingaro@unibo.it}{questo indirizzo di posta
+elettronica}.
+
 \begin{tcolorbox}[colback=yellow!20!white,colframe=yellow!75!black,title=\textbf{N.B.}]
- La documentazione va consegnata in forma cartacea nella casella del prof. Sangiorgi al piano terra del Dipartimento di Informatica, a fianco del suo ufficio.
+
+ Inoltre, La documentazione va consegnata in forma cartacea nella casella del
+ Professor Sangiorgi al piano terra del Dipartimento di Informatica.
+
 \end{tcolorbox}
 
 \subsubsection{Griglia di Valutazione}
-La valutazione dell'implementazione del sistema si basa sull'analisi del codice Jolie, sull'uso dei costrutti del linguaggio per la creazione di soluzioni efficienti, sulla tolleranza ai guasti del sistema implementato e sulla gestione degli errori. In particolare la griglia di valutazione usata è la seguente:
-\newpage
+
+La valutazione dell'implementazione del sistema si basa sull'analisi del codice
+Jolie, sull'uso dei costrutti del linguaggio per la creazione di soluzioni
+efficienti, sulla tolleranza ai guasti del sistema implementato e sulla gestione
+degli errori. In particolare la griglia di valutazione usata è la seguente:
+
 \begin{table}[ht]
  \centering
  {\small
   \begin{tabular}{|l|l|l|}
    \hline
-   \textit{\begin{tabular}[c]{@{}l@{}}Uso dei costrutti\\ di Jolie\end{tabular}} & \begin{tabular}[c]{@{}l@{}}Corretto utilizzo dei costrutti per la gestione\\ del parallelismo, uso di \texttt{execution(concurrent)}\\ a dispetto dell'uso di \texttt{execution(sequential)}\\ in tutti i servizi.\end{tabular} \\ \hline
-   \textit{\begin{tabular}[c]{@{}l@{}}Distribuzione del carico\\ di lavoro nel gruppo\end{tabular}} & \begin{tabular}[c]{@{}l@{}}Omogeneità nella ripartizione dei  compiti\\ nel gruppo, ogni membro\\  partecipa egualmente allo sviluppo, assenza\\ di dissimmetria di informazione.\end{tabular} \\ \hline
-   \textit{\begin{tabular}[c]{@{}l@{}}Grado di partecipazione\\ alla comunità\end{tabular}} & \begin{tabular}[c]{@{}l@{}}Presenza di domande e risposte sulla\\ newsgroup del corso\end{tabular} \\ \hline
+   \textit{\begin{tabular}[c]{@{}l@{}}Uso dei costrutti\\ di Jolie\end{tabular}} & \begin{tabular}[c]{@{}l@{}}Corretto utilizzo dei costrutti per la gestione\\ della concorrenza, uso corretto di \texttt{execution(\ldots)}.\end{tabular} \\ \hline
+   \textit{\begin{tabular}[c]{@{}l@{}}Distribuzione del carico\\ di lavoro nel gruppo\end{tabular}} & \begin{tabular}[c]{@{}l@{}}Omogeneità nella ripartizione dei compiti\\ nel gruppo, ogni membro\\  partecipa egualmente allo sviluppo, assenza\\ di dissimmetria di informazione.\end{tabular} \\ \hline
+   \textit{\begin{tabular}[c]{@{}l@{}}Grado di partecipazione\\ alla comunità\end{tabular}} & \begin{tabular}[c]{@{}l@{}}Presenza di domande e risposte sul\\ forum del corso\end{tabular} \\ \hline
   \end{tabular}
  }
 \end{table}
-
-\subsection{La Demo}
-La demo, o dimostrazione di funzionamento, esegue e monitora il comportamento di un sistema di gestione decentralizzata di transazioni. Essa simula almeno quattro utenti che entrano a far parte della rete peer-to-peer come nodi, un server timestamp che gestisce la sincronizzazione oraria ed un tool per monitorare lo stato della rete (il Network Visualiser).

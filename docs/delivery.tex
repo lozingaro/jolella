@@ -1,4 +1,8 @@
-Globalmente vengono consegnati tre prodotti: la documentazione del progetto, la sua implementazione in codice Jolie ed una demo di funzionamento. La valutazione finale avviene mediante una discussione di gruppo.
+% !TEX root =  main.tex
+
+Globalmente, vengono consegnati due prodotti: la documentazione e l'implementazione del progetto. La valutazione
+finale avviene mediante una discussione di gruppo.
+
 \begin{tcolorbox}[colback=yellow!20!white,colframe=yellow!75!black,title=\textbf{N.B.}]
  \begin{enumerate}
   \item non si accettano richieste di eccezioni sui progetti con motivazioni legate a esigenze di laurearsi o di non voler pagare le tasse per un altro anno.
@@ -13,7 +17,7 @@ Di seguito viene riportato un esempio di documentazione con le principali caratt
  \begin{itemize}
   \item Jollar -- Laboratorio Sistemi Operativi A.A. 2017-2018
   \item Nome del Gruppo
-  \item Indirizzo mail di riferimento: myaccount@email.com
+  \item Indirizzo mail di riferimento: nome.cognome@studio.unibo.it
   \item Componenti:
         \begin{itemize}
          \item Cognome, Nome, Matr. 0000424242
@@ -49,7 +53,15 @@ La valutazione della documentazione verte sull'analisi dello scritto e sulla sua
 \end{table}
 
 \subsection{L'Implementazione}
-Il progetto viene sviluppato utilizzando il linguaggio Jolie. Non ci sono requisiti riguardo ai protocolli (\textit{protocol}) e i media (\textit{location}) utilizzati per realizzare la comunicazione tra i componenti del sistema. La gestione del progetto avviene col supporto del sistema \textit{git}. Il codice del progetto è contenuto in un repository su \href{http://gitlab.com}{GitLab} e viene gestito seguendo la procedura descritta sotto.
+
+Il progetto viene sviluppato utilizzando il linguaggio Jolie. Non ci sono
+requisiti riguardo ai protocolli (\textit{protocol}) e i media
+(\textit{location}) utilizzati per realizzare la comunicazione tra i componenti
+del sistema. La gestione del progetto avviene col supporto del sistema
+\textit{git}.  Il codice del progetto è contenuto in un repository su
+\href{http://gitlab.com}{GitLab} e viene gestito seguendo la procedura descritta
+sotto.
+
 %
 \begin{tcolorbox}[colback=blue!20!white,colframe=blue!75!black,title=GitLab]
  \begin{itemize}
@@ -89,14 +101,3 @@ La valutazione dell'implementazione del sistema si basa sull'analisi del codice 
 
 \subsection{La Demo}
 La demo, o dimostrazione di funzionamento, esegue e monitora il comportamento di un sistema di gestione decentralizzata di transazioni. Essa simula almeno quattro utenti che entrano a far parte della rete peer-to-peer come nodi, un server timestamp che gestisce la sincronizzazione oraria ed un tool per monitorare lo stato della rete (il Network Visualiser).
-La sequenza di esecuzione è la seguente:
-\begin{enumerate}
- \item avvio del Server Timestamp;
- \item avvio del Network Visualizer;
- \item avvio del primo nodo, generatore del primo blocco (con \textit{reward} di sei Jollar);
- \item avvio del secondo, terzo e quarto nodo (con conseguente \textit{download} della blockchain);
- \item invio di un Jollar dal primo al secondo nodo (con conseguente scrittura su un nuovo blocco e reward relativo);
- \item invio di due Jollar dal primo al terzo nodo (con conseguente scrittura su un nuovo blocco e reward relativo);
- \item invio di tre Jollar dal primo al quarto nodo (con conseguente scrittura su un nuovo blocco e reward relativo);
- \item richiesta al Network Visualiser di stampare la situazione relativa al totale dei Jollar presenti nella rete e dei relativi possessori, con l'elenco delle transazioni avvenute.
-\end{enumerate}

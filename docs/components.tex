@@ -1,21 +1,23 @@
 % !TEX root =  main.tex
 
-\subsection{La rete Peer-To-Peer -- Jolella}
-\label{subsec:jolella}
+In questa sezione vengono descritte le componenti del sistema preso in
+considerazione per la realizzazione del progetto Jolella. Tali descrizioni hanno
+il solo scopo di informare, e non di porre vincoli sulle scelte implementative.
+Alcuni di questi vincoli e limitazioni sono invece discussi nella
+sezione~\ref{sec:implementation}, insieme alle motivazioni delle stesse.
 
-Jolella, ispirata al programma GNUtella~\footnote{Creato nel
- 2000, GNUtella è stato uno dei primi protocolli di condivisione di files su una
- rete decentralizzata peer-to-peer.}~\cite{gnutella}, è una rete decentralizzata per la
-condivisione di files tra nodi della rete stessa (anche detta \textit{P2P}). Il
-termine peer-to-peer si riferisce ad una classe di sistemi ed applicazioni che
-utilizzano risorse distribuite per eseguire una funzionalità (critica) in modo
+\subsection{La rete Peer-To-Peer}
+\label{subsec:p2p}
+
+Il termine peer-to-peer~\cite{AS04,Balakrishnan:2003:LUD:606272.606299} si
+riferisce ad una classe di sistemi ed applicazioni che utilizzano risorse
+distribuite per eseguire una funzionalità (critica) in modo
 decentralizzato~\cite{peer-to-peer}.
 
 Ogni nodo in una rete P2P viene chiamato generalmente \textbf{peer}, ha la
-medesima importanza, e svolge le stesse funzioni di tutti gli altri nodi.
+medesima importanza e svolge le stesse funzioni di tutti gli altri nodi.
 
-Le caratteristiche di un sistema P2P -- decentralizzata -- possono essere
-riassunte nelle seguenti:
+Le caratteristiche di un sistema P2P possono essere riassunte nelle seguenti:
 
 \begin{itemize}
 
@@ -45,24 +47,71 @@ riassunte nelle seguenti:
 
 \end{itemize}
 
+\subsubsection{Architetture di una rete P2P}
+
+Esistono tre tipologie di reti distribuite peer-to-peer:
+
+\begin{enumerate}
+
+ \item Decentralizzate pure -- dove tutti i nodi sono peer, non esiste nessun
+       coordinatore centralizzato. Ogni peer può funzionare come client e/o server.
+
+ \item Parzialmente centralizzate -- in queste reti alcuni nodi (supernodi)
+       facilitano l’interconnessione tra i peer, questi hanno, di solito, un indice
+       locale centralizzato dei peer locali. Il
+       pattern di comunicazione è: un peer comunica con il supernodo, che a sua volta
+       comunica con gli altri peer.
+
+ \item Decentralizzate ibride -- queste reti presentano un server centralizzato
+       che facilita l’interazione tra i peer (servizio di \textbf{localizzazione}, ad
+       esempio tramite \textbf{location}).
+
+\end{enumerate}
+
 \paragraph{Una rete P2P per la condivisione di files.} La condivisione di files
-costituisce il principale utilizzo delle reti decentralizzate fino dagli anni
+costituisce il principale utilizzo delle reti decentralizzate fin dagli anni
 `90 (si parla di quasi il $30\%$ della rete Internet). Perchè una rete P2P sia
 abilitata alla condivisione di files è necessario che ogni nodo esponga delle
 funzionalità di \textbf{pubblicazione}, \textbf{ricerca} e \textbf{recupero}.
 
-\paragraph{Sistemi con ricerca flood-based}.
+Vediamo un ``classico'' esempio di comunicazione tra due entità in una rete
+peer-to-peer per la condivisione di un file:
+
+\begin{enumerate}
+
+ \item Alice esegue un \textbf{Client} P2P;
+
+ \item Alice registra il suo contenuto nel sistema P2P;
+
+ \item Alice cerca ``Hey Jude'';
+
+ \item Il \textbf{Client} visualizza altri peer che hanno una copia di ``Hey
+       Jude'';
+
+ \item Alice sceglie uno, o più peer, per esempio Bob;
+
+ \item il file viene copiato da Bob ad Alice;
+
+ \item mentre Alice esegue il download, altri peer chiedono ad Alice l'upload
+       di file.
+
+\end{enumerate}
+
+L'esempio riportato, senza pretesa di descrivere in modo completo il flusso di
+comunicazioni, evidenzia alcune importanti proprietà che un \textbf{Client} di
+una rete P2P per la condivisione files deve soddisfare. Esso, infatti, non solo
+consente ad Alice di registrare un file per la sua condivisione ma, ``sotto il
+tappeto'', si occupa, per esempio, di fare il \textit{join} della rete prima di
+tutto il resto. Inoltre, permette ad Alice di copiare files condivisi da altri
+utenti della rete e consente di individuare quali peer possiedono un determinato
+file, tramite una ricerca basata su \textbf{keyword}.
+
+\paragraph{Sistemi con ricerca flood-based.} Riguardo all'ultimo punto trattato,
+cioè quello della ricerca in una rete decentralizzata, tale problema può essere
+ricondotto a quello del \textit{routing} o instradamento.
 
 
-\subsection{Il nodo/peer -- il Jeer}
-\label{subsec:jeer}
-
-Un peer della rete Jolella (che, per disambiguità, chiameremo \textbf{Jeer}) si
-occupa sia delle operazioni di gestione della rete, sia delle funzionalità del
-peer (descritte entrambe nella sezione~\ref{subsec:jolella}).
-
-\subsection{Il file di Jolella -- il Jile}
+\subsection{Il nodo/peer}
 
 
-
-\subsection{Il monitoraggio della rete -- il Network Monitor}
+\subsection{Il monitor di rete}

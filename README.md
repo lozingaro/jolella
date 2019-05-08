@@ -69,7 +69,7 @@ curl -v http://localhost:8000/lookup?jid
     command that use **curl** could be ( `-v` for _verbose_ output ):
 
 ```sh
-curl -v http://localhost:8000/register?address=socket://localhost:9001
+curl -v http://localhost:8000/join?address=socket://localhost:9001
 ```
 
 ### Important Notes

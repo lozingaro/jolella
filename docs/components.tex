@@ -1,7 +1,68 @@
 % !TEX root =  main.tex
 
 \subsection{La rete Peer-To-Peer -- Jolella}
+\label{subsec:jolella}
+
+Jolella, ispirata al programma GNUtella~\footnote{Creato nel
+ 2000, GNUtella è stato uno dei primi protocolli di condivisione di files su una
+ rete decentralizzata peer-to-peer.}~\cite{gnutella}, è una rete decentralizzata per la
+condivisione di files tra nodi della rete stessa (anche detta \textit{P2P}). Il
+termine peer-to-peer si riferisce ad una classe di sistemi ed applicazioni che
+utilizzano risorse distribuite per eseguire una funzionalità (critica) in modo
+decentralizzato~\cite{peer-to-peer}.
+
+Ogni nodo in una rete P2P viene chiamato generalmente \textbf{peer}, ha la
+medesima importanza, e svolge le stesse funzioni di tutti gli altri nodi.
+
+Le caratteristiche di un sistema P2P -- decentralizzata -- possono essere
+riassunte nelle seguenti:
+
+\begin{itemize}
+
+ \item i peer sono indipendenti (autonomi);
+
+ \item ogni peer ha funzioni di \textbf{client} e di \textbf{server}
+       contemporaneamente, e condivide delle risorse (in questo caso files);
+
+ \item possono essere presenti dei nodi con funzionalità diverse rispetto agli
+       altri, ad esempio per il monitoraggio o, in generale, per offrire operazioni
+       specifiche;
+
+ \item il sistema è \textbf{altamente distribuito}, il numero di peers può
+       essere dell'ordine delle centinaia di migliaia;
+
+ \item il sistema è \textbf{altamente dinamico}, un peer può entrare ed uscire
+       dalla rete in ogni momento.
+
+       \textbf{N.B.}
+
+       \begin{itemize}
+
+        \item le operazioni di ingresso/uscita (\textbf{join}/\textbf{leave}) dalla
+              rete fanno parte dell'interfaccia di ogni peer.
+
+       \end{itemize}
+
+\end{itemize}
+
+\paragraph{Una rete P2P per la condivisione di files.} La condivisione di files
+costituisce il principale utilizzo delle reti decentralizzate fino dagli anni
+`90 (si parla di quasi il $30\%$ della rete Internet). Perchè una rete P2P sia
+abilitata alla condivisione di files è necessario che ogni nodo esponga delle
+funzionalità di \textbf{pubblicazione}, \textbf{ricerca} e \textbf{recupero}.
+
+\paragraph{Sistemi con ricerca flood-based}.
+
 
 \subsection{Il nodo/peer -- il Jeer}
+\label{subsec:jeer}
+
+Un peer della rete Jolella (che, per disambiguità, chiameremo \textbf{Jeer}) si
+occupa sia delle operazioni di gestione della rete, sia delle funzionalità del
+peer (descritte entrambe nella sezione~\ref{subsec:jolella}).
+
+\subsection{Il file di Jolella -- il Jile}
+
+
 
 \subsection{Il monitoraggio della rete -- il Network Monitor}

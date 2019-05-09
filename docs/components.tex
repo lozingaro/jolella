@@ -106,12 +106,67 @@ tutto il resto. Inoltre, permette ad Alice di copiare files condivisi da altri
 utenti della rete e consente di individuare quali peer possiedono un determinato
 file, tramite una ricerca basata su \textbf{keyword}.
 
-\paragraph{Sistemi con ricerca flood-based.} Riguardo all'ultimo punto trattato,
-cioè quello della ricerca in una rete decentralizzata, tale problema può essere
-ricondotto a quello del \textit{routing} o instradamento.
+Quest'ultimo problema, cioè quello della ricerca in una rete decentralizzata,
+può essere ricondotto a quello del \textit{routing} o
+instradamento~\footnote{Per una veloce lettura su questo argomento è possibile
+ consultare la sezione dell'articolo relativo su Wikipedia:
+ \url{https://it.wikipedia.org/wiki/Protocollo_di_routing}.}. Nei sistemi P2P per
+la condivisione dei files il routing dipende dall'architettura del sistema
+stesso, nel caso di sistemi decentralizzati ibridi, questo si effettua mediante
+l'uso di una \textbf{directory centralizzata}~\footnote{Un esempio di programma
+ di condivisione files basato su questa tecnica è il famoso Napster.}. Nel caso
+invece di architetture decentralizzata pura, la ricerca utilizza il protocollo
+di \textbf{flooding}.
 
+\paragraph{Sistemi con directory centralizzata.} In questi sistemi un nodo
+centralizzato, chiamato anche \textbf{directory server} possiede una mappa con
+tutte le risorse dei peer, in un modo molto simile a quello che usano i sistemi
+di ricerca dei computer che usiamo tutti i giorni (\textit{Siri},
+\textit{Cortana}, etc.). Il servizio del (super-)nodo fornisce operazioni di
+\textbf{discovery} dei peer e di \textbf{lookup} delle risorse.
 
-\subsection{Il nodo/peer}
+Tra le criticità più importanti di questa tecnica esiste il costo di gestione
+del server centralizzato, in termini di risorse, la scalabilità limitata, dovuta
+all'approccio centralizzato (problemi di collo di bottiglia vengono spesso
+riscrontrati in questi sitemi) e, di conseguenza, la presenza di un
+\textit{single point of failure} nel sistema.
 
+\begin{figure}[H]
+ \centering
+ \includegraphics[width=0.8\textwidth]{directory}
+ \caption{Rappresentazione grafica di un esempio di sistema con
+  directory centralizzata. Fonte Uniroma.}
+\end{figure}
 
-\subsection{Il monitor di rete}
+\paragraph{Sistemi con ricerca flood-based.} Costituiscono l'approccio più
+decentralizzato, in cui ogni peer propaga -- da qui il termine inglese
+\textit{flood} -- la richiesta ai peer intorno a lui, che a loro volta inviano
+la richiesta ai peer ``vicini'', escludendo  quello da cui hanno ricevuto la
+richiesta. La risposta, una volta trovata, viene inviata direttamente al peer
+originario della richiesta. I sistemi così configurati devono porre particolare
+attenzione nella gestione della propagazione della richiesta, in quanto, senza
+un'opportuna strategia di \textit{back-off}, essa potrebbe circolare
+all'infinito. Una delle tecniche più usate è quella che utilizza un \textit{TTL}
+(Time To Live), un intero contenuto in ogni query inviata. Ad ogni passaggio per
+un nodo della rete, il peer decrementa questo TTL che, arrivato a 0, invalida la
+richiesta e ferma la propagazione~\footnote{Anche in questo caso l'articolo di
+Wikipedia mostra, brevemente, alcuni concetti chiave della tecnica di flooding e
+del TTL, anche detto \textit{Hop
+Count}~\url{https://en.wikipedia.org/wiki/Flooding_(computer_networking)}.}.
+
+\begin{figure}[H]
+ \centering
+ \includegraphics[width=0.85\textwidth]{flooding}
+ \caption{Rappresentazione grafica di un esempio di sistema con
+  directory centralizzata. Fonte Uniroma.}
+\end{figure}
+
+Note criticità del flooding riguardano la congestione della rete per il numero
+di messaggi scambiati da sistemi in cui i messaggi di richiesta cercano di
+esplorare l'intero insieme dei nodi. A questo è collegato anche il problema
+della determinazione del raggio di ampiezza del flooding (e quindi il TTL). Non
+esiste  quindi garanzia che venga interrogato il nodo che possiede la risorsa
+pur sapendo che questa  esiste nella rete. Un'altra limitazione di questi
+sistemi risiede nella nozione di ``vicinanza'' dei nodi, non è chiaro infatto
+come definire questo  parametro, è spesso necessario effettuare dei  tentativi
+per stabilire quale sia il valore migliore per un determinato sistema.

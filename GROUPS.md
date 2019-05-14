@@ -15,24 +15,24 @@ ziaJolella
 
 Jolietors
 ---
-De Prisco Cristian, 692600
-[Greco Michele](mailto:michele.greco2@studio.unibo.it), 772372
-Marini Michele, 804153
-Mucodema Qazim, 839207
-Vlakeski Slavcho, 767280
+1. De Prisco Cristian, 692600
+2. [Greco Michele](mailto:michele.greco2@studio.unibo.it), 772372
+3. Marini Michele, 804153
+4. Mucodema Qazim, 839207
+5. Vlakeski Slavcho, 767280
 
 Fai Merenda Con Jolella 
 ---
-[Riccardo Cavallin](riccardo.cavallin@studio.unibo.it ), 825624 
-Michele Bonini, 840831 
-Davide Cavallini, 846336 
-Martino Simonetti, 838295 
-Emanuele Fazzini, 825065 
+1. [Riccardo Cavallin](riccardo.cavallin@studio.unibo.it ), 825624 
+2. Michele Bonini, 840831 
+3. Davide Cavallini, 846336 
+4. Martino Simonetti, 838295 
+5. Emanuele Fazzini, 825065 
 
 Mi presenti tua jolella?
 ---
-[Miriam Crudelini](miriam.crudelini@studio.unibo.it), 794258
-Virginia Gironi, 793169
-Lucrezia Orlandini, 800983
-Beatrice Spiga, 802399
-Matteo Tramontano, 772520
+1. [Miriam Crudelini](miriam.crudelini@studio.unibo.it), 794258
+2. Virginia Gironi, 793169
+3. Lucrezia Orlandini, 800983
+4. Beatrice Spiga, 802399
+5. Matteo Tramontano, 772520

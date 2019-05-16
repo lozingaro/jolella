@@ -36,3 +36,18 @@ Mi presenti tua jolella?
 3. Lucrezia Orlandini, 800983
 4. Beatrice Spiga, 802399
 5. Matteo Tramontano, 772520
+
+JEER GROUP
+---
+Di Martino Nicholas, 841058
+Valeri Mario, 839257
+Rizzo Stefania, 840164
+Borrelli Pietro, 769066
+[Rida Omar](omar.rida@studio.unibo.it), 838871
+
+JoLeila
+---
+Bellettini Mattia, 753920
+[Conte Vittoria](vittoria.conte@studio.unibo.it), 788822
+Gatti Enrico, 801366
+Maiani Kevin, 801860

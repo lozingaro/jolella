@@ -39,15 +39,15 @@ Mi presenti tua jolella?
 
 JEER GROUP
 ---
-Di Martino Nicholas, 841058
-Valeri Mario, 839257
-Rizzo Stefania, 840164
-Borrelli Pietro, 769066
-[Rida Omar](omar.rida@studio.unibo.it), 838871
+1. Di Martino Nicholas, 841058
+2. Valeri Mario, 839257
+3. Rizzo Stefania, 840164
+4. Borrelli Pietro, 769066
+5. [Rida Omar](omar.rida@studio.unibo.it), 838871
 
 JoLeila
 ---
-Bellettini Mattia, 753920
-[Conte Vittoria](vittoria.conte@studio.unibo.it), 788822
-Gatti Enrico, 801366
-Maiani Kevin, 801860
+1. Bellettini Mattia, 753920
+2. [Conte Vittoria](vittoria.conte@studio.unibo.it), 788822
+3. Gatti Enrico, 801366
+4. Maiani Kevin, 801860

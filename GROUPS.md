@@ -23,7 +23,7 @@ Jolietors
 
 Fai Merenda Con Jolella 
 ---
-1. [Riccardo Cavallin](riccardo.cavallin@studio.unibo.it ), 825624 
+1. [Riccardo Cavallin](mailto:riccardo.cavallin@studio.unibo.it ), 825624 
 2. Michele Bonini, 840831 
 3. Davide Cavallini, 846336 
 4. Martino Simonetti, 838295 
@@ -31,7 +31,7 @@ Fai Merenda Con Jolella
 
 Mi presenti tua jolella?
 ---
-1. [Miriam Crudelini](miriam.crudelini@studio.unibo.it), 794258
+1. [Miriam Crudelini](mailto:miriam.crudelini@studio.unibo.it), 794258
 2. Virginia Gironi, 793169
 3. Lucrezia Orlandini, 800983
 4. Beatrice Spiga, 802399
@@ -43,11 +43,11 @@ JEER GROUP
 2. Valeri Mario, 839257
 3. Rizzo Stefania, 840164
 4. Borrelli Pietro, 769066
-5. [Rida Omar](omar.rida@studio.unibo.it), 838871
+5. [Rida Omar](mailto:omar.rida@studio.unibo.it), 838871
 
 JoLeila
 ---
 1. Bellettini Mattia, 753920
-2. [Conte Vittoria](vittoria.conte@studio.unibo.it), 788822
+2. [Conte Vittoria](mailto:vittoria.conte@studio.unibo.it), 788822
 3. Gatti Enrico, 801366
 4. Maiani Kevin, 801860

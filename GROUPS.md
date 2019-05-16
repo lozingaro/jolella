@@ -51,3 +51,10 @@ JoLeila
 2. [Conte Vittoria](mailto:vittoria.conte@studio.unibo.it), 788822
 3. Gatti Enrico, 801366
 4. Maiani Kevin, 801860
+
+Angelina Jolella
+
+1. [Fenati Andrea](mailto:andrea.fenati2@studio.unibo.it), 789630
+2. Giacomo pazzaglia, 691578
+3. Landi Marco, 789066
+4. Rubini Elisa, 806630

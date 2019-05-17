@@ -53,8 +53,25 @@ JoLeila
 4. Maiani Kevin, 801860
 
 Angelina Jolella
-
+---
 1. [Fenati Andrea](mailto:andrea.fenati2@studio.unibo.it), 789630
 2. Giacomo pazzaglia, 691578
 3. Landi Marco, 789066
 4. Rubini Elisa, 806630
+5. Gaia Valli, 841469
+
+Il drink e la jolella
+---
+1. [Jegasothy Keran](mailto:keran.jegasothy@studio.unibo.it), 839151
+2. Shuyinta Jason, 831193
+3. Vitale Giovanni, 838588
+4. Mozammel Tulak, 843747
+5. Scarciello Simone, 807372
+
+Jolie2Share
+---
+1. [Segato Tommaso](mailto:tommaso.segato@studio.unibo.it), 776171
+2. Fiocchi Giulia, 801620
+3. Tamarri Erica, 789145
+4. Donati Alberto, 788850
+5. Boscherini Benedetta, 809111

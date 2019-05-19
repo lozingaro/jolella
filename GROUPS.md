@@ -76,7 +76,7 @@ Jolie2Share
 4. Donati Alberto, 788850
 5. Boscherini Benedetta, 809111
 
-HARRY JOLIE E IL PRROGETTO DEI SEGRETI: 
+Herry Jolie e il progetto dei segreti
 ---
 1. Alessandro Santo Aprile, 841333 
 2. Andrea Caputo,843838 

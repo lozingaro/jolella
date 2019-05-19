@@ -91,3 +91,11 @@ Jeero jeero nodo
 3. Massimo Giuseppe, 802174
 4. Baldini Adelmo, 800985
 5. Marziale Leonardo, 803420
+
+JolellaallaGNUtella
+---
+1. [Ianaro Martina](martina.ianaro@studio.unibo.it) , 832779
+2. Zocco Antonino ,825095
+3. Di Dio Alessio ,830699
+4. Mogentale Martino ,840753
+5. Bovinelli Alice ,825628

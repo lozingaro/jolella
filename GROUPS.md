@@ -80,7 +80,7 @@ Herry Jolie e il progetto dei segreti
 ---
 1. Alessandro Santo Aprile, 841333 
 2. Andrea Caputo,843838 
-3. [Beatrice Andreea Calin](beatrice.calin2@studio.unibo.it), 839622 
+3. [Beatrice Andreea Calin](mailto:beatrice.calin2@studio.unibo.it), 839622 
 4. Hajar Berdouzi, 815037 
 5. Federica Longo, 839538  
 
@@ -94,8 +94,16 @@ Jeero jeero nodo
 
 JolellaallaGNUtella
 ---
-1. [Ianaro Martina](martina.ianaro@studio.unibo.it) , 832779
+1. [Ianaro Martina](mailto:martina.ianaro@studio.unibo.it) , 832779
 2. Zocco Antonino ,825095
 3. Di Dio Alessio ,830699
 4. Mogentale Martino ,840753
 5. Bovinelli Alice ,825628
+
+Lo and behold "Jolella"
+---
+1. [Angelo Muscia Masuzzo](mailto:angelo.musciamasuzzo@studio.unibo.it), 843275
+2. Guglielmo Santini, 840492
+3. Andrea Campa, 838598
+4. Rago Andrea, 657551
+5. Nobili Milosh, 842537

@@ -75,3 +75,19 @@ Jolie2Share
 3. Tamarri Erica, 789145
 4. Donati Alberto, 788850
 5. Boscherini Benedetta, 809111
+
+HARRY JOLIE E IL PRROGETTO DEI SEGRETI: 
+---
+1. Alessandro Santo Aprile, 841333 
+2. Andrea Caputo,843838 
+3. [Beatrice Andreea Calin](beatrice.calin2@studio.unibo.it), 839622 
+4. Hajar Berdouzi, 815037 
+5. Federica Longo, 839538  
+
+Jeero jeero nodo
+---
+1. [Dreni Jurgen](jurgen.dreni@studio.unibo.it), 806526
+2. Gjeka Mario, 773646
+3. Massimo Giuseppe, 802174
+4. Baldini Adelmo, 800985
+5. Marziale Leonardo, 803420

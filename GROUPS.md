@@ -37,7 +37,7 @@ Mi presenti tua jolella?
 4. Beatrice Spiga, 802399
 5. Matteo Tramontano, 772520
 
-JEER GROUP
+Jeer Group
 ---
 1. Di Martino Nicholas, 841058
 2. Valeri Mario, 839257
@@ -116,7 +116,7 @@ Romeo e Jolella
 4. Shehi Alba, 838866
 5. Vasalluccio Alessia, 841494
 
-CAROTE JOLIENNE
+Carote Jolienne
 ---
 1. Cinelli Nicolò, 852882
 2. Piombini Davide, 839936

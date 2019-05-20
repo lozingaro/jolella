@@ -145,3 +145,11 @@ Jabba The Bug
 3. Nicola Sintini, 841463
 4. [Caterina Capucci](mailto:caterina.capucci2@studio.unibo.it), 843176
 5. Fabian Vincenzi, 830667
+
+L'UnioneFaJolella
+---
+1. Natale Giovanni, 801188
+2. [Andriani Elisa](mailto:elisa.andriani2@studio.unibo.it), 801655
+3. Pesci Paolo, 806580
+4. De Luca Gabriella,801128
+5. Ivanaj Monika, 801643

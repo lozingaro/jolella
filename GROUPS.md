@@ -107,3 +107,41 @@ Lo and behold "Jolella"
 3. Andrea Campa, 838598
 4. Rago Andrea, 657551
 5. Nobili Milosh, 842537
+
+Romeo e Jolella
+---
+1. [Nushi Geralda](mailto:geralda.nushi@studio.unibo.it), 836164
+2. Pistocchi Alex, 843885
+3. Ricca Eugenio, 839739
+4. Shehi Alba, 838866
+5. Vasalluccio Alessia, 841494
+
+CAROTE JOLIENNE
+---
+1. Cinelli Nicolò, 852882
+2. Piombini Davide, 839936
+3. [Asperti Andrea](mailto:andrea.asperti2@studio.unibo.it), 840985
+4. Alessi Nicola, 843983
+
+Jolie is coming
+---
+1. [Sabrina Frisoni](mailto:sabrina.frisoni@studio.unibo.it), 801475
+2. Letizia Sarti, 744755
+3. Simona Galante, 801136
+4. Marco Bronzini, 792769
+
+La morale è sempre quella, fai il programma con Jolella
+---
+1. Miftari Erdisona, 838345
+2. [Bombardini Ilaria](mailto:ilaria.bombardini@studio.unibo.it), 840181
+3. Bolognesi Filippo, 838332
+4. Reginelli Diego, 808046
+5. Velasco Kathleen Anne, 840127
+
+Jabba The Bug
+---
+1. Alessandro Capotosti, 840926
+2. Matteo Monari, 839552
+3. Nicola Sintini, 841463
+4. [Caterina Capucci](mailto:caterina.capucci2@studio.unibo.it), 843176
+5. Fabian Vincenzi, 830667

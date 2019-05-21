@@ -153,3 +153,20 @@ L'UnioneFaJolella
 3. Pesci Paolo, 806580
 4. De Luca Gabriella,801128
 5. Ivanaj Monika, 801643
+
+Jolella is coming
+---
+1. Convertino Angela, 840341
+2. Kansikas Filippo, 838297
+3. Longo Pietro, 841422
+4. Fila Alexa, 843251
+5. [Debiasi Sara](mailto:sara.debiasi@studio.unibo.it), 825088
+
+Joliardici
+---
+1. Giuseppe Iannone, 853015
+2. [Andrea Pagliarani](mailto:andrea.pagliarani6@studio.unibo.it), 816920
+3. Elisa Silvegni, 817268
+4. Zoubeir Warrache , 772430
+5. Erind Peci , 766703
+

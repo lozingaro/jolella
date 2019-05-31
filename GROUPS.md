@@ -170,3 +170,9 @@ Joliardici
 4. Zoubeir Warrache , 772430
 5. Erind Peci , 766703
 
+Randomgruppo19
+---
+1. Lonigro Noemi Antonia, 838883 
+2. Moschetta Alessandra, 639968 
+3. [Del Vescovo Matteo](mailto:matteo.delvescovo@studio.unibo.it), 672572 
+4. Michelucci Peter Lorenzo, 802322 

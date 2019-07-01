@@ -6,8 +6,24 @@ JolellaallaGNUtella [Delivered]
 4. Mogentale Martino ,840753
 5. Bovinelli Alice ,825628
 
+Jeero jeero nodo [Delivered]
+----------------------------
+1. [Dreni Jurgen](jurgen.dreni@studio.unibo.it), 806526
+2. Gjeka Mario, 773646
+3. Massimo Giuseppe, 802174
+4. Baldini Adelmo, 800985
+5. Marziale Leonardo, 803420
+
+Jabba The Bug [Delivered]
+-------------------------
+1. Alessandro Capotosti, 840926
+2. Matteo Monari, 839552
+3. Nicola Sintini, 841463
+4. [Caterina Capucci](mailto:caterina.capucci2@studio.unibo.it), 843176
+5. Fabian Vincenzi, 830667
+
 Java the Hutt
----
+-------------
 1. Matteo Tamari, 843272
 2. Lorenzo Formato, 840344
 3. Maicol Giovannini, 825070
@@ -92,16 +108,8 @@ Herry Jolie e il progetto dei segreti
 4. Hajar Berdouzi, 815037 
 5. Federica Longo, 839538  
 
-Jeero jeero nodo
----
-1. [Dreni Jurgen](jurgen.dreni@studio.unibo.it), 806526
-2. Gjeka Mario, 773646
-3. Massimo Giuseppe, 802174
-4. Baldini Adelmo, 800985
-5. Marziale Leonardo, 803420
-
 Lo and behold "Jolella"
----
+-----------------------
 1. [Angelo Muscia Masuzzo](mailto:angelo.musciamasuzzo@studio.unibo.it), 843275
 2. Guglielmo Santini, 840492
 3. Andrea Campa, 838598
@@ -138,16 +146,8 @@ La morale è sempre quella, fai il programma con Jolella
 4. Reginelli Diego, 808046
 5. Velasco Kathleen Anne, 840127
 
-Jabba The Bug
----
-1. Alessandro Capotosti, 840926
-2. Matteo Monari, 839552
-3. Nicola Sintini, 841463
-4. [Caterina Capucci](mailto:caterina.capucci2@studio.unibo.it), 843176
-5. Fabian Vincenzi, 830667
-
 L'UnioneFaJolella
----
+-----------------
 1. Natale Giovanni, 801188
 2. [Andriani Elisa](mailto:elisa.andriani2@studio.unibo.it), 801655
 3. Pesci Paolo, 806580

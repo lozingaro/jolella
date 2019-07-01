@@ -1,26 +1,34 @@
-JolellaallaGNUtella [Delivered]
----
+JolellaallaGNUtella \[Delivered\]
+---------------------------------
 1. [Ianaro Martina](mailto:martina.ianaro@studio.unibo.it) , 832779
-2. Zocco Antonino ,825095
-3. Di Dio Alessio ,830699
-4. Mogentale Martino ,840753
-5. Bovinelli Alice ,825628
+2. Zocco Antonino, 825095
+3. Di Dio Alessio, 830699
+4. Mogentale Martino, 840753
+5. Bovinelli Alice, 825628
 
-Jeero jeero nodo [Delivered]
-----------------------------
+Jeero jeero nodo \[Delivered\]
+------------------------------
 1. [Dreni Jurgen](jurgen.dreni@studio.unibo.it), 806526
 2. Gjeka Mario, 773646
 3. Massimo Giuseppe, 802174
 4. Baldini Adelmo, 800985
 5. Marziale Leonardo, 803420
 
-Jabba The Bug [Delivered]
--------------------------
+Jabba The Bug \[Delivered\]
+---------------------------
 1. Alessandro Capotosti, 840926
 2. Matteo Monari, 839552
 3. Nicola Sintini, 841463
 4. [Caterina Capucci](mailto:caterina.capucci2@studio.unibo.it), 843176
 5. Fabian Vincenzi, 830667
+
+Jeer Group \[Delivered\]
+------------------------
+1. Di Martino Nicholas, 841058
+2. Valeri Mario, 839257
+3. Rizzo Stefania, 840164
+4. Borrelli Pietro, 769066
+5. [Rida Omar](mailto:omar.rida@studio.unibo.it), 838871
 
 Java the Hutt
 -------------
@@ -60,14 +68,6 @@ Mi presenti tua jolella?
 3. Lucrezia Orlandini, 800983
 4. Beatrice Spiga, 802399
 5. Matteo Tramontano, 772520
-
-Jeer Group
----
-1. Di Martino Nicholas, 841058
-2. Valeri Mario, 839257
-3. Rizzo Stefania, 840164
-4. Borrelli Pietro, 769066
-5. [Rida Omar](mailto:omar.rida@studio.unibo.it), 838871
 
 JoLeila
 ---

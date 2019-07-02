@@ -30,13 +30,44 @@ Jeer Group \[Delivered\]
 4. Borrelli Pietro, 769066
 5. [Rida Omar](mailto:omar.rida@studio.unibo.it), 838871
 
-Java the Hutt
+Angelina Jolella \[Delivered\]
+---
+1. [Fenati Andrea](mailto:andrea.fenati2@studio.unibo.it), 789630
+2. Giacomo Pazzaglia, 691578
+3. Landi Marco, 789066
+4. Rubini Elisa, 806630
+5. Gaia Valli, 841469
+
+Jolie2Share \[Delivered\]
+---
+1. [Segato Tommaso](mailto:tommaso.segato@studio.unibo.it), 776171
+2. Fiocchi Giulia, 801620
+3. Tamarri Erica, 789145
+4. Donati Alberto, 788850
+5. Boscherini Benedetta, 809111
+
+Java the Hutt \[Delivered\]
 -------------
 1. Matteo Tamari, 843272
 2. Lorenzo Formato, 840344
 3. Maicol Giovannini, 825070
 4. [Riccardo Mioli](mailto:riccardo.mioli2@studio.unibo.it), 825373
 5. Davide Dozza, 832908
+
+Mi presenti tua jolella? \[Delivered\]
+---
+1. [Miriam Crudelini](mailto:miriam.crudelini@studio.unibo.it), 794258
+2. Virginia Gironi, 793169
+3. Lucrezia Orlandini, 800983
+4. Beatrice Spiga, 802399
+5. Matteo Tramontano, 772520
+
+Jolie is coming \[Delivered\]
+---
+1. [Sabrina Frisoni](mailto:sabrina.frisoni@studio.unibo.it), 801475
+2. Letizia Sarti, 744755
+3. Simona Galante, 801136
+4. Marco Bronzini, 792769
 
 ziaJolella
 ---
@@ -61,28 +92,12 @@ Fai Merenda Con Jolella
 4. Martino Simonetti, 838295 
 5. Emanuele Fazzini, 825065 
 
-Mi presenti tua jolella?
----
-1. [Miriam Crudelini](mailto:miriam.crudelini@studio.unibo.it), 794258
-2. Virginia Gironi, 793169
-3. Lucrezia Orlandini, 800983
-4. Beatrice Spiga, 802399
-5. Matteo Tramontano, 772520
-
 JoLeila
 ---
 1. Bellettini Mattia, 753920
 2. [Conte Vittoria](mailto:vittoria.conte@studio.unibo.it), 788822
 3. Gatti Enrico, 801366
 4. Maiani Kevin, 801860
-
-Angelina Jolella
----
-1. [Fenati Andrea](mailto:andrea.fenati2@studio.unibo.it), 789630
-2. Giacomo pazzaglia, 691578
-3. Landi Marco, 789066
-4. Rubini Elisa, 806630
-5. Gaia Valli, 841469
 
 Il drink e la jolella
 ---
@@ -91,14 +106,6 @@ Il drink e la jolella
 3. Vitale Giovanni, 838588
 4. Mozammel Tulak, 843747
 5. Scarciello Simone, 807372
-
-Jolie2Share
----
-1. [Segato Tommaso](mailto:tommaso.segato@studio.unibo.it), 776171
-2. Fiocchi Giulia, 801620
-3. Tamarri Erica, 789145
-4. Donati Alberto, 788850
-5. Boscherini Benedetta, 809111
 
 Herry Jolie e il progetto dei segreti
 ---
@@ -130,13 +137,6 @@ Carote Jolienne
 2. Piombini Davide, 839936
 3. [Asperti Andrea](mailto:andrea.asperti2@studio.unibo.it), 840985
 4. Alessi Nicola, 843983
-
-Jolie is coming
----
-1. [Sabrina Frisoni](mailto:sabrina.frisoni@studio.unibo.it), 801475
-2. Letizia Sarti, 744755
-3. Simona Galante, 801136
-4. Marco Bronzini, 792769
 
 La morale è sempre quella, fai il programma con Jolella
 ---

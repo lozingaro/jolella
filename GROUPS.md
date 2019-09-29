@@ -1,76 +1,3 @@
-# Prova di laboratorio del Primo Luglio 2019
-
-JolellaallaGNUtella \[Delivered\]
----------------------------------
-1. [Ianaro Martina](mailto:martina.ianaro@studio.unibo.it) , 832779
-2. Zocco Antonino, 825095
-3. Di Dio Alessio, 830699
-4. Mogentale Martino, 840753
-5. Bovinelli Alice, 825628
-
-Jeero jeero nodo \[Delivered\]
-------------------------------
-1. [Dreni Jurgen](jurgen.dreni@studio.unibo.it), 806526
-2. Gjeka Mario, 773646
-3. Massimo Giuseppe, 802174
-4. Baldini Adelmo, 800985
-5. Marziale Leonardo, 803420
-
-Jabba The Bug \[Delivered\]
----------------------------
-1. Alessandro Capotosti, 840926
-2. Matteo Monari, 839552
-3. Nicola Sintini, 841463
-4. [Caterina Capucci](mailto:caterina.capucci2@studio.unibo.it), 843176
-5. Fabian Vincenzi, 830667
-
-Jeer Group \[Delivered\]
-------------------------
-1. Di Martino Nicholas, 841058
-2. Valeri Mario, 839257
-3. Rizzo Stefania, 840164
-4. Borrelli Pietro, 769066
-5. [Rida Omar](mailto:omar.rida@studio.unibo.it), 838871
-
-Angelina Jolella \[Delivered\]
----
-1. [Fenati Andrea](mailto:andrea.fenati2@studio.unibo.it), 789630
-2. Giacomo Pazzaglia, 691578
-3. Landi Marco, 789066
-4. Rubini Elisa, 806630
-5. Gaia Valli, 841469
-
-Jolie2Share \[Delivered\]
----
-1. [Segato Tommaso](mailto:tommaso.segato@studio.unibo.it), 776171
-2. Fiocchi Giulia, 801620
-3. Tamarri Erica, 789145
-4. Donati Alberto, 788850
-5. Boscherini Benedetta, 809111
-
-Java the Hutt \[Delivered\]
--------------
-1. Matteo Tamari, 843272
-2. Lorenzo Formato, 840344
-3. Maicol Giovannini, 825070
-4. [Riccardo Mioli](mailto:riccardo.mioli2@studio.unibo.it), 825373
-5. Davide Dozza, 832908
-
-Mi presenti tua jolella? \[Delivered\]
----
-1. [Miriam Crudelini](mailto:miriam.crudelini@studio.unibo.it), 794258
-2. Virginia Gironi, 793169
-3. Lucrezia Orlandini, 800983
-4. Beatrice Spiga, 802399
-5. Matteo Tramontano, 772520
-
-Jolie is coming \[Delivered\]
----
-1. [Sabrina Frisoni](mailto:sabrina.frisoni@studio.unibo.it), 801475
-2. Letizia Sarti, 744755
-3. Simona Galante, 801136
-4. Marco Bronzini, 792769
-
 # Prova di laboratorio del 30 Settembre 2019
 
 Jolietors \[Delivered\]
@@ -180,3 +107,76 @@ La morale è sempre quella, fai il programma con Jolella  \[Did not add me as re
 3. Bolognesi Filippo, 838332
 4. Reginelli Diego, 808046
 5. Velasco Kathleen Anne, 840127
+
+# Prova di laboratorio del Primo Luglio 2019
+
+JolellaallaGNUtella \[Delivered\]
+---------------------------------
+1. [Ianaro Martina](mailto:martina.ianaro@studio.unibo.it) , 832779
+2. Zocco Antonino, 825095
+3. Di Dio Alessio, 830699
+4. Mogentale Martino, 840753
+5. Bovinelli Alice, 825628
+
+Jeero jeero nodo \[Delivered\]
+------------------------------
+1. [Dreni Jurgen](jurgen.dreni@studio.unibo.it), 806526
+2. Gjeka Mario, 773646
+3. Massimo Giuseppe, 802174
+4. Baldini Adelmo, 800985
+5. Marziale Leonardo, 803420
+
+Jabba The Bug \[Delivered\]
+---------------------------
+1. Alessandro Capotosti, 840926
+2. Matteo Monari, 839552
+3. Nicola Sintini, 841463
+4. [Caterina Capucci](mailto:caterina.capucci2@studio.unibo.it), 843176
+5. Fabian Vincenzi, 830667
+
+Jeer Group \[Delivered\]
+------------------------
+1. Di Martino Nicholas, 841058
+2. Valeri Mario, 839257
+3. Rizzo Stefania, 840164
+4. Borrelli Pietro, 769066
+5. [Rida Omar](mailto:omar.rida@studio.unibo.it), 838871
+
+Angelina Jolella \[Delivered\]
+---
+1. [Fenati Andrea](mailto:andrea.fenati2@studio.unibo.it), 789630
+2. Giacomo Pazzaglia, 691578
+3. Landi Marco, 789066
+4. Rubini Elisa, 806630
+5. Gaia Valli, 841469
+
+Jolie2Share \[Delivered\]
+---
+1. [Segato Tommaso](mailto:tommaso.segato@studio.unibo.it), 776171
+2. Fiocchi Giulia, 801620
+3. Tamarri Erica, 789145
+4. Donati Alberto, 788850
+5. Boscherini Benedetta, 809111
+
+Java the Hutt \[Delivered\]
+-------------
+1. Matteo Tamari, 843272
+2. Lorenzo Formato, 840344
+3. Maicol Giovannini, 825070
+4. [Riccardo Mioli](mailto:riccardo.mioli2@studio.unibo.it), 825373
+5. Davide Dozza, 832908
+
+Mi presenti tua jolella? \[Delivered\]
+---
+1. [Miriam Crudelini](mailto:miriam.crudelini@studio.unibo.it), 794258
+2. Virginia Gironi, 793169
+3. Lucrezia Orlandini, 800983
+4. Beatrice Spiga, 802399
+5. Matteo Tramontano, 772520
+
+Jolie is coming \[Delivered\]
+---
+1. [Sabrina Frisoni](mailto:sabrina.frisoni@studio.unibo.it), 801475
+2. Letizia Sarti, 744755
+3. Simona Galante, 801136
+4. Marco Bronzini, 792769

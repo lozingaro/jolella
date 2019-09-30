@@ -46,6 +46,14 @@ ziaJolella \[Delivered\]
 3. Tortolini Sofia, 841404
 4. [Dell’Orletta Federica](mailto:federica.dellorletta@studio.unibo.it), 838329
 
+Romeo e Jolella \[Delivered\]
+---
+1. [Nushi Geralda](mailto:geralda.nushi@studio.unibo.it), 836164
+2. Pistocchi Alex, 843885
+3. Ricca Eugenio, 839739
+4. Shehi Alba, 838866
+5. Vasalluccio Alessia, 841494
+
 Joliardici \[Untagged\]
 ---
 1. Giuseppe Iannone, 853015
@@ -61,14 +69,6 @@ Herry Jolie e il progetto dei segreti \[The repository for this project is empty
 3. [Beatrice Andreea Calin](mailto:beatrice.calin2@studio.unibo.it), 839622 
 4. Hajar Berdouzi, 815037 
 5. Federica Longo, 839538  
-
-Romeo e Jolella \[The repository for this project is empty\]
----
-1. [Nushi Geralda](mailto:geralda.nushi@studio.unibo.it), 836164
-2. Pistocchi Alex, 843885
-3. Ricca Eugenio, 839739
-4. Shehi Alba, 838866
-5. Vasalluccio Alessia, 841494
 
 Randomgruppo19 \[Did not add me as reporter\]
 ---

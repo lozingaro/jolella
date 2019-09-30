@@ -16,7 +16,14 @@ Jolella is coming \[Delivered\]
 4. Fila Alexa, 843251
 5. [Debiasi Sara](mailto:sara.debiasi@studio.unibo.it), 825088
 
-Fai Merenda Con Jolella \[Untagged\]
+Jolie is coming \[Delivered\]
+---
+1. [Sabrina Frisoni](mailto:sabrina.frisoni@studio.unibo.it), 801475
+2. Letizia Sarti, 744755
+3. Simona Galante, 801136
+4. Marco Bronzini, 792769
+
+Fai Merenda Con Jolella \[Delivered\]
 ---
 1. [Riccardo Cavallin](mailto:riccardo.cavallin@studio.unibo.it ), 825624 
 2. Michele Bonini, 840831 
@@ -24,13 +31,20 @@ Fai Merenda Con Jolella \[Untagged\]
 4. Martino Simonetti, 838295 
 5. Emanuele Fazzini, 825065 
 
-Lo and behold "Jolella" \[Untagged\]
+Lo and behold "Jolella" \[Delivered\]
 -----------------------
 1. [Angelo Muscia Masuzzo](mailto:angelo.musciamasuzzo@studio.unibo.it), 843275
 2. Guglielmo Santini, 840492
 3. Andrea Campa, 838598
 4. Rago Andrea, 657551
 5. Nobili Milosh, 842537
+
+ziaJolella \[Delivered\]
+---
+1. Filippi Francesco, 832109
+2. Di Cristo Marco, 839513
+3. Tortolini Sofia, 841404
+4. [Dell’Orletta Federica](mailto:federica.dellorletta@studio.unibo.it), 838329
 
 Joliardici \[Untagged\]
 ---
@@ -47,13 +61,6 @@ Herry Jolie e il progetto dei segreti \[The repository for this project is empty
 3. [Beatrice Andreea Calin](mailto:beatrice.calin2@studio.unibo.it), 839622 
 4. Hajar Berdouzi, 815037 
 5. Federica Longo, 839538  
-
-ziaJolella \[The repository for this project is empty\]
----
-1. Filippi Francesco, 832109
-2. Di Cristo Marco, 839513
-3. Tortolini Sofia, 841404
-4. [Dell’Orletta Federica](mailto:federica.dellorletta@studio.unibo.it), 838329
 
 Romeo e Jolella \[The repository for this project is empty\]
 ---
@@ -173,10 +180,3 @@ Mi presenti tua jolella? \[Delivered\]
 3. Lucrezia Orlandini, 800983
 4. Beatrice Spiga, 802399
 5. Matteo Tramontano, 772520
-
-Jolie is coming \[Delivered\]
----
-1. [Sabrina Frisoni](mailto:sabrina.frisoni@studio.unibo.it), 801475
-2. Letizia Sarti, 744755
-3. Simona Galante, 801136
-4. Marco Bronzini, 792769

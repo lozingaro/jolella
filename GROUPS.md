@@ -1,12 +1,52 @@
+# Non consegnano per l'A.A. 2018-2019
+
+L'UnioneFaJolella 
+-----------------
+1. Natale Giovanni, 801188
+2. [Andriani Elisa](mailto:elisa.andriani2@studio.unibo.it), 801655
+3. Pesci Paolo, 806580
+4. De Luca Gabriella,801128
+5. Ivanaj Monika, 801643
+
+Carote Jolienne 
+---
+1. Cinelli Nicolò, 852882
+2. Piombini Davide, 839936
+3. [Asperti Andrea](mailto:andrea.asperti2@studio.unibo.it), 840985
+4. Alessi Nicola, 843983
+
+La morale è sempre quella, fai il programma con Jolella
+---
+1. Miftari Erdisona, 838345
+2. [Bombardini Ilaria](mailto:ilaria.bombardini@studio.unibo.it), 840181
+3. Bolognesi Filippo, 838332
+4. Reginelli Diego, 808046
+5. Velasco Kathleen Anne, 840127
+
 # Prova di laboratorio del 30 Settembre 2019
 
-Jolietors \[Delivered\]
+Fai Merenda Con Jolella \[Delivered\]
 ---
-1. De Prisco Cristian, 692600
-2. [Greco Michele](mailto:michele.greco2@studio.unibo.it), 772372
-3. Marini Michele, 804153
-4. Mucodema Qazim, 839207
-5. Vlakeski Slavcho, 767280
+1. [Riccardo Cavallin](mailto:riccardo.cavallin@studio.unibo.it ), 825624 
+2. Michele Bonini, 840831 
+3. _Davide Cavallini_, 846336 
+4. Martino Simonetti, 838295 
+5. Emanuele Fazzini, 825065 
+
+Il drink e la jolella \[Delivered\]
+---
+1. [Jegasothy Keran](mailto:keran.jegasothy@studio.unibo.it), 839151
+2. Shuyinta Jason, 831193
+3. Vitale Giovanni, 838588
+4. Mozammel Tulak, 843747
+5. Scarciello Simone, 807372
+
+JoLeila \[Delivered\]
+---
+1. Bellettini Mattia, 753920
+2. [Conte Vittoria](mailto:vittoria.conte@studio.unibo.it), 788822
+3. Gatti Enrico, 801366
+4. Maiani Kevin, 801860
 
 Jolella is coming \[Delivered\]
 ---
@@ -23,13 +63,21 @@ Jolie is coming \[Delivered\]
 3. Simona Galante, 801136
 4. Marco Bronzini, 792769
 
-Fai Merenda Con Jolella \[Delivered\]
+Joliardici \[Delivered\]
 ---
-1. [Riccardo Cavallin](mailto:riccardo.cavallin@studio.unibo.it ), 825624 
-2. Michele Bonini, 840831 
-3. _Davide Cavallini_, 846336 
-4. Martino Simonetti, 838295 
-5. Emanuele Fazzini, 825065 
+1. Giuseppe Iannone, 853015
+2. [Andrea Pagliarani](mailto:andrea.pagliarani6@studio.unibo.it), 816920
+3. Elisa Silvegni, 817268
+4. Zoubeir Warrache , 772430
+5. Erind Peci , 766703
+
+Jolietors \[Delivered\]
+---
+1. De Prisco Cristian, 692600
+2. [Greco Michele](mailto:michele.greco2@studio.unibo.it), 772372
+3. Marini Michele, 804153
+4. Mucodema Qazim, 839207
+5. Vlakeski Slavcho, 767280
 
 Lo and behold "Jolella" \[Delivered\]
 -----------------------
@@ -39,12 +87,12 @@ Lo and behold "Jolella" \[Delivered\]
 4. Rago Andrea, 657551
 5. Nobili Milosh, 842537
 
-ziaJolella \[Delivered\]
+Randomgruppo19 \[Delivered\]
 ---
-1. Filippi Francesco, 832109
-2. Di Cristo Marco, 839513
-3. Tortolini Sofia, 841404
-4. [Dell’Orletta Federica](mailto:federica.dellorletta@studio.unibo.it), 838329
+1. Lonigro Noemi Antonia, 838883 
+2. Moschetta Alessandra, 639968 
+3. [Del Vescovo Matteo](mailto:matteo.delvescovo@studio.unibo.it), 672572 
+4. Michelucci Peter Lorenzo, 802322 
 
 Romeo e Jolella \[Delivered\]
 ---
@@ -54,13 +102,12 @@ Romeo e Jolella \[Delivered\]
 4. Shehi Alba, 838866
 5. Vasalluccio Alessia, 841494
 
-Joliardici \[Untagged\]
+ziaJolella \[Delivered\]
 ---
-1. Giuseppe Iannone, 853015
-2. [Andrea Pagliarani](mailto:andrea.pagliarani6@studio.unibo.it), 816920
-3. Elisa Silvegni, 817268
-4. Zoubeir Warrache , 772430
-5. Erind Peci , 766703
+1. Filippi Francesco, 832109
+2. Di Cristo Marco, 839513
+3. Tortolini Sofia, 841404
+4. [Dell’Orletta Federica](mailto:federica.dellorletta@studio.unibo.it), 838329
 
 Herry Jolie e il progetto dei segreti \[The repository for this project is empty\]
 ---
@@ -69,51 +116,6 @@ Herry Jolie e il progetto dei segreti \[The repository for this project is empty
 3. [Beatrice Andreea Calin](mailto:beatrice.calin2@studio.unibo.it), 839622 
 4. Hajar Berdouzi, 815037 
 5. Federica Longo, 839538  
-
-Randomgruppo19 \[Did not add me as reporter\]
----
-1. Lonigro Noemi Antonia, 838883 
-2. Moschetta Alessandra, 639968 
-3. [Del Vescovo Matteo](mailto:matteo.delvescovo@studio.unibo.it), 672572 
-4. Michelucci Peter Lorenzo, 802322 
-
-L'UnioneFaJolella \[Did not add me as reporter\]
------------------
-1. Natale Giovanni, 801188
-2. [Andriani Elisa](mailto:elisa.andriani2@studio.unibo.it), 801655
-3. Pesci Paolo, 806580
-4. De Luca Gabriella,801128
-5. Ivanaj Monika, 801643
-
-Il drink e la jolella \[Did not add me as reporter\]
----
-1. [Jegasothy Keran](mailto:keran.jegasothy@studio.unibo.it), 839151
-2. Shuyinta Jason, 831193
-3. Vitale Giovanni, 838588
-4. Mozammel Tulak, 843747
-5. Scarciello Simone, 807372
-
-JoLeila \[Did not add me as reporter\]
----
-1. Bellettini Mattia, 753920
-2. [Conte Vittoria](mailto:vittoria.conte@studio.unibo.it), 788822
-3. Gatti Enrico, 801366
-4. Maiani Kevin, 801860
-
-Carote Jolienne \[Did not add me as reporter\]
----
-1. Cinelli Nicolò, 852882
-2. Piombini Davide, 839936
-3. [Asperti Andrea](mailto:andrea.asperti2@studio.unibo.it), 840985
-4. Alessi Nicola, 843983
-
-La morale è sempre quella, fai il programma con Jolella  \[Did not add me as reporter\]
----
-1. Miftari Erdisona, 838345
-2. [Bombardini Ilaria](mailto:ilaria.bombardini@studio.unibo.it), 840181
-3. Bolognesi Filippo, 838332
-4. Reginelli Diego, 808046
-5. Velasco Kathleen Anne, 840127
 
 # Prova di laboratorio del Primo Luglio 2019
 

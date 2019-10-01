@@ -1,28 +1,3 @@
-# Non consegnano per l'A.A. 2018-2019
-
-L'UnioneFaJolella 
------------------
-1. Natale Giovanni, 801188
-2. [Andriani Elisa](mailto:elisa.andriani2@studio.unibo.it), 801655
-3. Pesci Paolo, 806580
-4. De Luca Gabriella,801128
-5. Ivanaj Monika, 801643
-
-Carote Jolienne 
----
-1. Cinelli Nicolò, 852882
-2. Piombini Davide, 839936
-3. [Asperti Andrea](mailto:andrea.asperti2@studio.unibo.it), 840985
-4. Alessi Nicola, 843983
-
-La morale è sempre quella, fai il programma con Jolella
----
-1. Miftari Erdisona, 838345
-2. [Bombardini Ilaria](mailto:ilaria.bombardini@studio.unibo.it), 840181
-3. Bolognesi Filippo, 838332
-4. Reginelli Diego, 808046
-5. Velasco Kathleen Anne, 840127
-
 # Prova di laboratorio del 30 Settembre 2019
 
 Fai Merenda Con Jolella \[Delivered\]
@@ -182,3 +157,28 @@ Mi presenti tua jolella? \[Delivered\]
 3. Lucrezia Orlandini, 800983
 4. Beatrice Spiga, 802399
 5. Matteo Tramontano, 772520
+
+# Non consegnano per l'A.A. 2018-2019
+
+L'UnioneFaJolella 
+-----------------
+1. Natale Giovanni, 801188
+2. [Andriani Elisa](mailto:elisa.andriani2@studio.unibo.it), 801655
+3. Pesci Paolo, 806580
+4. De Luca Gabriella,801128
+5. Ivanaj Monika, 801643
+
+Carote Jolienne 
+---
+1. Cinelli Nicolò, 852882
+2. Piombini Davide, 839936
+3. [Asperti Andrea](mailto:andrea.asperti2@studio.unibo.it), 840985
+4. Alessi Nicola, 843983
+
+La morale è sempre quella, fai il programma con Jolella
+---
+1. Miftari Erdisona, 838345
+2. [Bombardini Ilaria](mailto:ilaria.bombardini@studio.unibo.it), 840181
+3. Bolognesi Filippo, 838332
+4. Reginelli Diego, 808046
+5. Velasco Kathleen Anne, 840127

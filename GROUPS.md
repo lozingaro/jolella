@@ -84,14 +84,6 @@ ziaJolella \[Delivered\]
 3. Tortolini Sofia, 841404
 4. [Dell’Orletta Federica](mailto:federica.dellorletta@studio.unibo.it), 838329
 
-Herry Jolie e il progetto dei segreti \[The repository for this project is empty\]
----
-1. Alessandro Santo Aprile, 841333 
-2. Andrea Caputo,843838 
-3. [Beatrice Andreea Calin](mailto:beatrice.calin2@studio.unibo.it), 839622 
-4. Hajar Berdouzi, 815037 
-5. Federica Longo, 839538  
-
 # Prova di laboratorio del Primo Luglio 2019
 
 JolellaallaGNUtella \[Delivered\]
@@ -182,3 +174,11 @@ La morale è sempre quella, fai il programma con Jolella
 3. Bolognesi Filippo, 838332
 4. Reginelli Diego, 808046
 5. Velasco Kathleen Anne, 840127
+
+Herry Jolie e il progetto dei segreti \[The repository for this project is empty\]
+---
+1. Alessandro Santo Aprile, 841333 
+2. Andrea Caputo,843838 
+3. [Beatrice Andreea Calin](mailto:beatrice.calin2@studio.unibo.it), 839622 
+4. Hajar Berdouzi, 815037 
+5. Federica Longo, 839538  

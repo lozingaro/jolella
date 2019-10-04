@@ -150,7 +150,7 @@ Mi presenti tua jolella?
 4. Beatrice Spiga, 802399
 5. Matteo Tramontano, 772520
 
-# Others
+# Non consegnato
 
 L'UnioneFaJolella 
 -----------------
